@@ -39,14 +39,14 @@ namespace ConsoleApplication1
                         Tax = Salary * 18 / 100;
                         SSF = Salary * 3 / 100;
                         Net_Salary = Salary - Tax - SSF;
-                        Console.Write("Employee records\n");
-                        Console.WriteLine("************");
+                        Console.Write("**Employee records**");
+                        
                         Console.Write("\n\n");
                         Console.WriteLine("Employee's Name:{0}.\n", EName);
                         Console.WriteLine("Employee ID:{0}\n", EID);
-                        Console.WriteLine("Gross salary: php{0:0.00}.", Salary);
+                        Console.WriteLine("Gross salary: {0:0.00}.", Salary);
                         Console.Write("\n\n");
-                        Console.WriteLine("the tax of 18%:{0}\n", Tax);
+                        Console.WriteLine("the tax of 18%:{0} will be paid\n", Tax);
                         Console.WriteLine("the social security fund is :{0}\n", SSF);
                         Console.WriteLine("Net salary:{0:0.00}.", Net_Salary);
                         break;
