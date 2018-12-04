@@ -1,0 +1,6 @@
+C:\Users\Regis\Desktop\Assignements\Regis\simple calculator\simple calculator\bin\Debug\simple calculator.exe.config
+C:\Users\Regis\Desktop\Assignements\Regis\simple calculator\simple calculator\bin\Debug\simple calculator.exe
+C:\Users\Regis\Desktop\Assignements\Regis\simple calculator\simple calculator\bin\Debug\simple calculator.pdb
+C:\Users\Regis\Desktop\Assignements\Regis\simple calculator\simple calculator\obj\Debug\simple calculator.csprojResolveAssemblyReference.cache
+C:\Users\Regis\Desktop\Assignements\Regis\simple calculator\simple calculator\obj\Debug\simple calculator.exe
+C:\Users\Regis\Desktop\Assignements\Regis\simple calculator\simple calculator\obj\Debug\simple calculator.pdb
