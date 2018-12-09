@@ -1,0 +1,70 @@
+header{
+    background-color: darkslategray;
+    display: float;
+    padding-top: 20px;
+    padding-bottom: 35px;
+    padding-left: 5px; 
+}
+header p{
+    margin-top: 0px;
+    float: left;
+    width: 25%;
+}
+ul{
+    
+    list-style: none;
+}
+li{
+    display: inline-block;
+    
+}
+li a{
+    text-decoration: none;
+    color: bisque;
+    padding: 8px;
+}
+.as{
+    max-width: 80%;
+    margin: 0 auto;
+    display: float;
+    
+}
+.zx{
+    display: inline-block;
+}
+
+#qw{
+    float: left;
+    width: 31%;
+
+}
+#er{
+    float: left;
+    width: 30%;
+     
+}
+#ty{
+    float: left ;
+    width: 30%
+    
+}
+#op{
+    padding-bottom: 20px;
+}
+.df{
+    text-align: center;
+}
+.cv{
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 5px;
+}
+
+footer{
+    background: darkslategray;
+    padding:10px;
+}
+footer p{
+    color: bisque;
+    text-align: center;
+}
