@@ -1,0 +1,76 @@
+body{
+font-family:Arial;
+background-color: blueviolet;
+margin-left: 10%;
+margin-right: 10%;
+}
+li {
+    list-style: none;
+  }
+.header{
+    background-color: aquamarine;
+    color:black;
+    height: 90px;
+
+}
+.header-logo{
+    float: left;
+   padding: 30px 40px;
+    font-size:34px;
+    color:blue;
+
+}
+.header-list{
+    float: left;
+}
+.header-list li{
+        float: left;
+        padding: 10px 20px;
+        font-size: 24px;
+        
+    
+    
+}
+.main{
+    padding: 100px 80px;
+}
+.contents-items{
+    float: left;
+    padding: 20px 40px;
+
+
+}
+.contact h1{
+    font-size: 30px;
+    color:blue;
+    padding:20px;
+    text-align: center;
+
+}
+.contact p{
+    text-align: center;
+     
+}
+form{
+    text-align: center;
+}
+.submit{
+    
+    color: black;
+    font-weight: bold;
+    padding: 12px 45px;
+    background-color:green;
+    border:green;
+}
+
+.footer{
+    background-color: aquamarine;
+    padding: 10px;
+
+  
+}
+.footer p{
+    text-align: center;
+    color:black;
+    
+}
