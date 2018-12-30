@@ -1,0 +1,28 @@
+.yui{
+    width: 80%;
+    margin: 0 auto;
+}
+.dg img{
+    width:190px ;
+    height:200px;
+}
+.nav-item a{
+    color:black;
+}
+
+/* media queries */
+@media(min-width:700px){
+    .qw{
+        float: left;
+    }
+    .er{
+        float: right;
+    }
+    .dg img{
+        width:290px ;
+        height:300px;
+    }
+    .nav-item a{
+        color:black;
+    }
+}
