@@ -1,0 +1,46 @@
+nav{
+    text-align: center;
+
+}
+.qwe{
+    width: 70%;
+    margin: 0 auto;
+    background-color: #223f5e;
+    display: table;
+}
+a{
+    color:#9b9797;
+}
+h4{
+    color: #b5b5b5;
+}
+
+.qwe div{
+    float: left;
+    width: 25%;
+}
+body{
+    background-color:#233548;
+}
+nav{
+    background-color:#223f5e;;
+}
+footer{
+    background-color:#223f5e;
+}
+.gh{
+    color: #b5b5b5;
+}
+#zx{
+    color: #0a70dd;
+}
+.lk{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.qwe li{
+    border-right: solid 0.5px white;
+}
+#op{
+    margin-top: 20px;
+}
